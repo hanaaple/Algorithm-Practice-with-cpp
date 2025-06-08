@@ -4,6 +4,10 @@
 /x64
 /BOJ
 
+*.recipe
+*.tlog
+*.ilk
+
 # Compiled Object files
 *.slo
 *.lo
