@@ -324,6 +324,11 @@
       <LinkCompiled>true</LinkCompiled>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Source\BOJ\Failed\1068.md" />
+    <Content Include="Source\BOJ\Solved\16120.md" />
+    <Content Include="Source\BOJ\Solved\8983.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
