@@ -328,11 +328,15 @@
     <Content Include="README.md" />
     <Content Include="Source\BOJ\Failed\1068.md" />
     <Content Include="Source\BOJ\Solved\16120.md" />
+    <Content Include="Source\BOJ\Solved\1806.md" />
     <Content Include="Source\BOJ\Solved\2470.md" />
     <Content Include="Source\BOJ\Solved\3273.md" />
     <Content Include="Source\BOJ\Solved\8983.md" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Source\BOJ\1644.h" />
+    <ClInclude Include="Source\BOJ\1644.md" />
+    <ClInclude Include="Source\BOJ\Solved\1806.h" />
     <ClInclude Include="Source\BOJ\Solved\2470.h" />
     <ClInclude Include="Source\BOJ\Solved\3273.h" />
   </ItemGroup>
